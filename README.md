@@ -1,7 +1,8 @@
-欢迎来到Lean的Openwrt源码仓库！
-=
-Welcome to Lean's  git source of OpenWrt and packages
-=
+這是Lean的Openwrt源码仓库！
+
+原文鏈接 https://github.com/coolsnowwolf/lede
+
+
 中文：如何编译自己需要的 OpenWrt 固件
 -
 注意：
